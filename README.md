@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nahid-Mahmud
-- 👀 I’m interested in Web Design & Devlopment
+- 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning JS & JQ 
-- 💞️ I’m looking to collaborate on Web Design & Devlopment
+- 💞️ I’m looking to collaborate on Web Design & Development
 - 📫 You can to reach me by Facebook Page (@mdnahidmahmud2)
 - 🔥 I'm also a SEO expert 
 <!---
