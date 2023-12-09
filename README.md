@@ -1,8 +1,10 @@
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&theme=github-dark-blue&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&card_width=600)](https://git.io/streak-stats)
 
 </div>
+
+## About Me
 
 - 👋 Hi, I’m @Nahid-Mahmud
 - 👀 I’m interested in Web Design & Development
