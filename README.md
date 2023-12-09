@@ -22,6 +22,10 @@
 <a href="https://twitter.com/nm_nahid01" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/twitter.png" alt="khalidsdevlab" width="50px" /></a>
 </p>
 
+[![Email](https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/gmail.png)](mailto:nahidmahmudn@gmail.com)
+
+
+
 <br />
 ## About Me
 
