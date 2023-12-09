@@ -19,7 +19,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/md-nahid-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Linkedin.png"  width="50px" /></a>
-<a href="https://www.facebook.com/mdnahidmahmud2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Facebook.png"  width="50px" /></a>
+<a href="https://www.facebook.com/mdnahidmahmud2/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Facebook.png"  width="50px" /></a>
 <a href="mailto:nahidmahmudn@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/gmail%202%20.png"  width="50px" /></a>
 <a href="https://twitter.com/nm_nahid01" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/twitter.png" width="50px" /></a>
 
