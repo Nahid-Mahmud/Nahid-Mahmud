@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/photos/cover.png" />
 </a>
 
+## Streak Stats
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&card_width=600)](https://git.io/streak-stats)
