@@ -1,3 +1,12 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&theme=github-dark-blue)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Nahid-Mahmud
 - 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning React.js
