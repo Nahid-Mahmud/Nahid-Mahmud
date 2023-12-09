@@ -20,9 +20,15 @@
 <a href="https://www.linkedin.com/in/md-nahid-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Linkedin.png" alt="khalid-hasan97" width="50px" /></a> 
 <a href="https://www.facebook.com/mdnahidmahmud2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Facebook.png" alt="khalid.hasan9753" width="50px" /></a> 
 <a href="https://twitter.com/nm_nahid01" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/twitter.png" alt="khalidsdevlab" width="50px" /></a>
+
+
+
+[![Email](https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/gmail%202%20.png)](mailto:nahidmahmudn@gmail.com)
+
+
+
 </p>
 
-[![Email](https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/gmail.png)](mailto:nahidmahmudn@gmail.com)
 
 
 
