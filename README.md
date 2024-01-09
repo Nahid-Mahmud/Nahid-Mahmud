@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&card_width=600)](https://git.io/streak-stats)
+![Nahid-Mahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahid-Mahmud&theme=vue-dark&hide_border=true)
 
 </div>
 
