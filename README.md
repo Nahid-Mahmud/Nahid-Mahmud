@@ -16,7 +16,7 @@
 
 ## Reach me out
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/md-nahid-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Linkedin.png"  width="50px" /></a>
 <a href="https://www.facebook.com/mdnahidmahmud2/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/icons/Facebook.png"  width="50px" /></a>
