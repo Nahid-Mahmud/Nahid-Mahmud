@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nahid-Mahmud)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nahid-Mahmud&theme=transparent)](https://git.io/streak-stats)
 
 </div>
 
