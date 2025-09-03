@@ -13,7 +13,6 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 ## About Me
 
-- 👋 Hi, I’m @Nahid-Mahmud
 - 👀 I’m interested in Web Design & Development
 - 💻 My expertise lies in the MERN stack - MongoDB, Express.js, React.js, and Node.js.
 - 💞️ I’m looking to collaborate on Web Design & Development
