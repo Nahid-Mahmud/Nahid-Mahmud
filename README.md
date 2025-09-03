@@ -11,9 +11,16 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 ![GitHub followers](https://img.shields.io/github/followers/Nahid-Mahmud?style=social)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white)](https://nahid-mahmud.xyz/)
 
+## About Me
+
+- 👋 Hi, I’m @Nahid-Mahmud
+- 👀 I’m interested in Web Design & Development
+- 💻 My expertise lies in the MERN stack - MongoDB, Express.js, React.js, and Node.js.
+- 💞️ I’m looking to collaborate on Web Design & Development
+
 <br>
 
-## 🛠️ Skills
+## 🛠️ Technologies I Use
 
 | Category     | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,13 +60,6 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 </p>
 
 <br />
-
-## About Me
-
-- 👋 Hi, I’m @Nahid-Mahmud
-- 👀 I’m interested in Web Design & Development
-- 💻 My expertise lies in the MERN stack - MongoDB, Express.js, React.js, and Node.js.
-- 💞️ I’m looking to collaborate on Web Design & Development
 
 <!---
 Nahid-Mahmud/Nahid-Mahmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
