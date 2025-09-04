@@ -34,7 +34,8 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nahid-Mahmud&theme=transparent)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Nahid-Mahmud&theme=transparent)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid-Mahmud&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
